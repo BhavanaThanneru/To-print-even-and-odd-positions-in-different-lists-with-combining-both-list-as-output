@@ -1,0 +1,1 @@
+# To-print-even-and-odd-positions-in-different-lists-with-combining-both-list-as-output
